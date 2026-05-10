@@ -1,21 +1,37 @@
+# Kiwi Insights Power BI Dashboard
+
+A cinematic New Zealand-inspired Power BI dashboard focused on movie analytics, KPI visualization, and modern dashboard storytelling.
+---
 ## Project Overview
-A cinematic New Zealand-inspired Power BI dashboard analyzing movie and rating insights.
-
+This project demonstrates:
+- Interactive Power BI dashboard design
+- Dark cinematic UI inspired by Kiwi aesthetics
+- KPI visualization and trend analysis
+- Data storytelling techniques
+---
 ## Features
-- Interactive filters
+- Interactive slicers and filters
 - KPI cards
-- Dark cinematic dashboard theme
-- Custom background design
-
+- Trend analysis charts
+- Custom cinematic dashboard background
+- Transparent visual design
+---
 ## Tools Used
 - Power BI
 - DAX
 - Power Query
-
+- GitHub
+---
 ## Files Included
-- PBIX dashboard file
-- Dashboard preview image
-- PDF export
-
+| File | Description |
+|---|---|
+| KiwiInsights.pbix | Main Power BI dashboard |
+| dashboard-preview.png | Dashboard screenshot |
+| dashboard-preview.pdf | PDF export version |
+---
 ## Dashboard Preview
 ![Dashboard Preview](dashboard-preview.png)
+---
+## Author
+Moe Thu Aung
+MBA | CA Qualified | Power BI & FP&A Enthusiast
