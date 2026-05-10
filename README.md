@@ -1,4 +1,4 @@
-# Kiwi Insights Power BI Dashboard
+# Kiwiscreens Insights Power BI Dashboard
 
 A cinematic New Zealand-inspired Power BI dashboard focused on movie analytics, KPI visualization, and modern dashboard storytelling.
 ---
